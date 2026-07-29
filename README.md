@@ -3,5 +3,5 @@
 A new Flutter project.
 
 ## Getting Started
-[curry.png]
-![alt text](curry.png)
+![Profile Card ](screenshot/curry.png)
+
